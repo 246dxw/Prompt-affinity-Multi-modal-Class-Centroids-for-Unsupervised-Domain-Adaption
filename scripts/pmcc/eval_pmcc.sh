@@ -27,7 +27,7 @@ VP=True
 VDEEP=True
 SHARE=True
 
-# bash scripts/pda/eval_pda.sh officehome b32_ep10_officehome PMCC ViT-B/16 2 a-c 0
+# bash scripts/pda/eval_pmcc.sh officehome b32_ep10_officehome PMCC ViT-B/16 2 a-c 0
 
 DIR=/Workplace_sdb/dxw/output/pda/${TRAINER}/${DATASET}/${CFG}/${BACKBONE//\//}/tdeep${TDEEP}_vdeep${VDEEP}_${LOCATION}/${DOMAINS}_ntok${NTOK}
 

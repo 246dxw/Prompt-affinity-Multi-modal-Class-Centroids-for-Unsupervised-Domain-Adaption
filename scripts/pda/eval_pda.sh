@@ -27,7 +27,7 @@ VP=True
 VDEEP=True
 SHARE=True
 
-# bash scripts/pda/eval_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 2 a-c 0
+# bash scripts/pda/eval_pmcc.sh officehome b32_ep10_officehome PDA ViT-B/16 2 a-c 0
 DIR=output/pda/${TRAINER}/${DATASET}/${CFG}/${BACKBONE//\//}/tdeep${TDEEP}_vdeep${VDEEP}_${LOCATION}/${DOMAINS}_ntok${NTOK}
 
 python train.py \
