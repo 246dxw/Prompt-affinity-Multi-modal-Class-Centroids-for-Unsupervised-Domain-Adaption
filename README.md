@@ -154,7 +154,7 @@ bash scripts/pmcc/eval_pmcc.sh officehome b32_ep10_officehome PMCC ViT-B/16 2 a-
 
 
 
-The details are at each method folder in [scripts folder](https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment/blob/main/scripts).
+The details are at each method folder in [scripts folder]([PMCC/scripts at main · 246dxw/PMCC (github.com)](https://github.com/246dxw/PMCC/tree/main/scripts)).
 
 
 
