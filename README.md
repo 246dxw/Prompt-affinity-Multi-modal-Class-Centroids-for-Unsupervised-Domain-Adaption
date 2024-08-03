@@ -14,17 +14,9 @@
 
 
 
-- **New perspective：**To the best of our knowledge, this is
+- **New perspective：** To the best of our knowledge, this is the first attempt to leverage both the visual and textual semantic information of each class from VLMs to preserve the semantic consistency between source and target domains in UDA.
 
-  the first attempt to leverage both the visual and textual
-
-  semantic information of each class from VLMs to pre-
-
-  serve the semantic consistency between source and target
-
-  domains in UDA.
-
-- **Novel method：**We introduce a novel UDA method
+- **Novel method：** We introduce a novel UDA method
   PMCC by constructing multi-modal class centroids that
   serve as a semantic bridge to effectively measure the sim-
   ilarity between data across domains with the multi-modal
