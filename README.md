@@ -119,8 +119,6 @@ Please follow the instructions as follows to prepare all datasets. Datasets list
 
 ## Training and Evaluation
 
-
-
 Please follow the instructions for training, evaluating and reproducing the results. Firstly, you need to **modify the directory of data by yourself**.
 
 ### Training
