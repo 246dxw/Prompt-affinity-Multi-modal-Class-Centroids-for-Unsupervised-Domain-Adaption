@@ -6,7 +6,7 @@
 
 ## Highlights
 
-![Architecture](https://github.com/246dxw/PMCC/Architecture.jpg)
+![Architecture](https://github.com/246dxw/PMCC/blob/main/Architecture.jpg)
 
 > **Abstract:** In recent years, the advancements in large vision-lanuage models (VLMs) like CLIP have sparked a renewed interest in leveraging the prompt learning mechanism to preserve semantic consistency between source and target domains in unsupervised domain adaptation (UDA). While these approaches show promising results, they encounter fundamental limitations when quantifying the similarity between source and target domain data, primarily stemming from the redundant and modality-missing class centroids. To address these limitations, we propose Prompt-affinity Multi-modal Class Centroids for UDA (termed as PMCC). Firstly, we fuse the text class centroids (directly generated from the text encoder of CLIP with manual prompts for each class) and image class centroids (generated from the image encoder of CLIP for each class based on source domain images) to yield the multi-modal class centroids. Secondly, we conduct the cross-attention operation between each source or target domain image and these multi-modal class centroids. In this way, these class centroids that contain rich semantic information of each class will serve as a bridge to effectively measure the semantic similarity between different domains. Finally, we employ a multi-modal prompt learning mechanism to accurately predict the true class of each image for both source and target domains. Extensive experiments on 3 popular UDA datasets (i.e., Office-31, Office-Home and VisDA-2017) validate the superiority of our PMCC compared with the state-of-the-art (SOTA) UDA methods. 
 
