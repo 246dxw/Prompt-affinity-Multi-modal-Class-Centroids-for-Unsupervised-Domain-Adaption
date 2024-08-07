@@ -153,11 +153,12 @@ The details are at each method folder in [scripts folder]([PMCC/scripts at main 
 
 Our style of reademe refers to [PDA](https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment). And our code is based on [CoOp and CoCoOp](https://github.com/KaiyangZhou/CoOp), [DAPL](https://github.com/LeapLabTHU/DAPrompt/tree/main) ，[MaPLe](https://github.com/muzairkhattak/multimodal-prompt-learning)  and [PDA](https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment) etc. repository. We thank the authors for releasing their code. If you use their model and code, please consider citing these works as well. Supported methods are as follows:
 
-| Method       | Paper                                                        | Code                                                         |
-| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| CoOp         | [IJCV 2022](https://arxiv.org/abs/2109.01134)                | [link](https://github.com/KaiyangZhou/CoOp)                  |
-| CoCoOp       | [CVPR 2022](https://arxiv.org/abs/2203.05557)                | [link](https://github.com/KaiyangZhou/CoOp)                  |
-| VPT          | [ECCV 2022](https://arxiv.org/abs/2203.17274)                | [link](https://github.com/KMnP/vpt)                          |
-| IVLP & MaPLe | [CVPR 2023](https://arxiv.org/abs/2210.03117)                | [link](https://github.com/muzairkhattak/multimodal-prompt-learning) |
-| DAPL         | [TNNLS 2023](https://arxiv.org/abs/2202.06687)               | [link](https://github.com/LeapLabTHU/DAPrompt)               |
-| PDA          | [AAAI 2024]([[2312.09553\] Prompt-based Distribution Alignment for Unsupervised Domain Adaptation (arxiv.org)](https://arxiv.org/abs/2312.09553)) | [link](https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment) |
+| Method       | Paper                                          | Code                                                         |
+| ------------ | ---------------------------------------------- | ------------------------------------------------------------ |
+| CoOp         | [IJCV 2022](https://arxiv.org/abs/2109.01134)  | [link](https://github.com/KaiyangZhou/CoOp)                  |
+| CoCoOp       | [CVPR 2022](https://arxiv.org/abs/2203.05557)  | [link](https://github.com/KaiyangZhou/CoOp)                  |
+| VPT          | [ECCV 2022](https://arxiv.org/abs/2203.17274)  | [link](https://github.com/KMnP/vpt)                          |
+| IVLP & MaPLe | [CVPR 2023](https://arxiv.org/abs/2210.03117)  | [link](https://github.com/muzairkhattak/multimodal-prompt-learning) |
+| DAPL         | [TNNLS 2023](https://arxiv.org/abs/2202.06687) | [link](https://github.com/LeapLabTHU/DAPrompt)               |
+| PDA          | [AAAI 2024](https://arxiv.org/abs/2312.09553)  | [link](https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment) |
+
